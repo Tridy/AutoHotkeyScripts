@@ -1,5 +1,6 @@
 ; =======================================================
-; AutoHotkey script for mapping Satechi Media Button keys
+; AutoHotkey (https://www.autohotkey.com/) script for
+; mapping Satechi Media Button keys
 ; to PowerPoint clicker hotkeys 
 ; =======================================================
 Media_Prev::Left			;previous slide
